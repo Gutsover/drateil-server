@@ -21,21 +21,8 @@ h1 {
     text-align: center;
     font-size: 5em;
     font-variant: small-caps;
-    -webkit-animation: color-change-3x 5s linear infinite alternate both;
-	animation: color-change-3x 5s linear infinite alternate both;
+    color: black;
 }
-
-@keyframes color-change-3x {
-    0% {
-      color: #a4b0be;
-    }
-    50% {
-      color: #34495e;
-    }
-    100% {
-        color: black;
-    }
-  }
 
 h2 {
     text-align: center;
