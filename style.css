@@ -19,6 +19,13 @@ h1 {
     font-size: 5em;
     color: whitesmoke;
     font: 150px;
+    text-shadow: 0px 0px 10px white,
+                 0px 0px 20px white,
+                 0px 0px 30px white,
+                 0px 0px 40px white,
+                 0px 0px 50px white,
+                 0px 0px 60px white,
+                 0px 0px 70px white;
 }
 
 h2 {
